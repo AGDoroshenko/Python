@@ -1,0 +1,5 @@
+First = int(input('Введите первое число'))
+Second = int(input('Введите второе число'))
+Third = str(input('Введите первое слово'))
+Fourth = str(input('Введите второе слово'))
+print(f'Первое число {First}, Второе число {Second}, Первое слово {Third}, Второе слово {Fourth}')
